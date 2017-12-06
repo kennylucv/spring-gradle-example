@@ -324,7 +324,7 @@
                   "ports": [
                      {
                         "name": "${APPLICATION_NAME}-http",
-                        "targetPort": 8
+                        "targetPort": 8888,
                         "port": 8888,
                      }
                   ],
